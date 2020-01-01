@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Sarabun:100,200,300,400,500,600,700,800&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      body {
+        background-color: rgb(26, 30, 34);
+        font-family: "Sarabun", sans-serif;
+        margin: 0px;
+      }
+      .main {
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        height: 100vh;
+        justify-content: center;
+      }
+      .welcome-text {
+        color: rgb(0, 112, 243);
+        margin: 0px;
+      }
+      label {
+        color: rgb(246, 248, 250);
+        font-size: 2.5rem;
+        font-family: Inter, system, -apple-system, BlinkMacSystemFont, Roboto,
+          "Segoe UI", Arial, sans-serif;
+        margin: 2rem;
+      }
+      form {
+        text-align: center;
+        width: 100%;
+      }
+      input {
+        background-color: rgb(38, 48, 60);
+        border: 0px;
+        color: rgb(121, 184, 255);
+        border-radius: 0.25rem;
+        font-family: "SF Mono", "Fira Code", "Fira Mono", "Roboto Mono",
+          "Lucida Console", Monaco, monospace;
+        font-size: 2rem;
+        font-weight: 400;
+        height: 30px;
+        max-width: 500px;
+        outline: none;
+        padding: 20px;
+        text-align: center;
+        width: 100%;
+      }
+      @media (max-width: 600px) {
+        .welcome-text {
+          color: rgb(0, 112, 243);
+          font-size: 2rem;
+          text-align: center;
+        }
+        label {
+          font-size: 2rem;
+          margin: 1.5rem;
+        }
+        input {
+          font-size: 1.4rem;
+          height: 15px;
+          width: 300px;
+        }
+      }
+    </style>
+    <title>Amascrap</title>
+  </head>
+  <body>
+    <div class="main">
+      <h1 class="welcome-text">Amascrap</h1>
+      <label>Enter url of the product</label>
+      <form action="/run">
+        <input type="text" name="url" id="url" />
+      </form>
+    </div>
+
+    <script>
+      function submit() {
+        // Selecting the input element and get its value
+        var url = document.getElementById("url").value;
+        // Displaying the value
+        alert(inputVal);
+      }
+    </script>
+  </body>
+</html>
