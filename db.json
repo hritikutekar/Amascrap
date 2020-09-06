@@ -5,20 +5,8 @@
     "glutenFree": true,
     "dairyFree": true,
     "veryHealthy": false,
-    "cheap": false,
-    "veryPopular": false,
-    "sustainable": false,
-    "weightWatcherSmartPoints": 21,
-    "gaps": "no",
-    "lowFodmap": true,
-    "preparationMinutes": 25,
-    "cookingMinutes": 20,
     "aggregateLikes": 0,
-    "spoonacularScore": 64.0,
     "healthScore": 26.0,
-    "creditsText": "Gluten Free Recipe Box",
-    "sourceName": "Gluten Free Recipe Box",
-    "pricePerServing": 326.7,
     "extendedIngredients": [
         {
             "id": 11353,
@@ -31,12 +19,6 @@
             "originalName": "russet potatoes peeled and slice into 1/4 x 1/4-inch thick fries",
             "amount": 3.0,
             "unit": "large",
-            "meta": [
-                "peeled"
-            ],
-            "metaInformation": [
-                "peeled"
-            ],
             "measures": {
                 "us": {
                     "amount": 3.0,
@@ -47,62 +29,6 @@
                     "amount": 3.0,
                     "unitShort": "large",
                     "unitLong": "larges"
-                }
-            }
-        },
-        {
-            "id": 11353,
-            "aisle": "Produce",
-            "image": "russet-or-idaho-potatoes.png",
-            "consistency": "solid",
-            "name": "russet potato",
-            "original": "1 small russet potato peeled and slice into 1/4 x 1/4-inch thick fries*",
-            "originalString": "1 small russet potato peeled and slice into 1/4 x 1/4-inch thick fries*",
-            "originalName": "russet potato peeled and slice into 1/4 x 1/4-inch thick fries",
-            "amount": 1.0,
-            "unit": "small",
-            "meta": [
-                "peeled"
-            ],
-            "metaInformation": [
-                "peeled"
-            ],
-            "measures": {
-                "us": {
-                    "amount": 1.0,
-                    "unitShort": "small",
-                    "unitLong": "small"
-                },
-                "metric": {
-                    "amount": 1.0,
-                    "unitShort": "small",
-                    "unitLong": "small"
-                }
-            }
-        },
-        {
-            "id": 1125,
-            "aisle": "Milk, Eggs, Other Dairy",
-            "image": "egg-yolk.jpg",
-            "consistency": "solid",
-            "name": "egg yolks",
-            "original": "3 egg yolks",
-            "originalString": "3 egg yolks",
-            "originalName": "egg yolks",
-            "amount": 3.0,
-            "unit": "",
-            "meta": [],
-            "metaInformation": [],
-            "measures": {
-                "us": {
-                    "amount": 3.0,
-                    "unitShort": "",
-                    "unitLong": ""
-                },
-                "metric": {
-                    "amount": 3.0,
-                    "unitShort": "",
-                    "unitLong": ""
                 }
             }
         },
@@ -117,14 +43,6 @@
             "originalName": "peanut oil for frying (or other high-smoke-point oil:: vegetable, canola, etc.)",
             "amount": 1.0,
             "unit": "quart",
-            "meta": [
-                "for frying",
-                "(or other high-smoke-point oil:: vegetable, canola, etc.)"
-            ],
-            "metaInformation": [
-                "for frying",
-                "(or other high-smoke-point oil:: vegetable, canola, etc.)"
-            ],
             "measures": {
                 "us": {
                     "amount": 1.0,
@@ -142,10 +60,7 @@
     "id": 1181931,
     "title": "Golden Brown French Fries without Flour or Added Starch (Gluten Free)",
     "readyInMinutes": 165,
-    "servings": 3,
-    "sourceUrl": "https://glutenfreerecipebox.com/golden-brown-french-fries/",
     "image": "https://spoonacular.com/recipeImages/1181931-556x370.jpg",
-    "imageType": "jpg",
     "summary": "Golden Brown French Fries without Flour or Added Starch (Gluten Free) requires approximately <b>2 hours and 45 minutes</b> from start to finish. Watching your figure? This gluten free, dairy free, lacto ovo vegetarian, and fodmap friendly recipe has <b>673 calories</b>, <b>12g of protein</b>, and <b>37g of fat</b> per serving. This recipe serves 3 and costs $3.27 per serving. This recipe from Gluten Free Recipe Box requires russet potatoes and into, russet potato and into, egg yolks, and peanut oil. 1 person were impressed by this recipe. It is a <b>pretty expensive</b> recipe for fans of American food. Not a lot of people really liked this side dish. With a spoonacular <b>score of 0%</b>, this dish is improvable. <a href=\"https://spoonacular.com/recipes/no-starch-added-gluten-free-butter-cookies-+-video-by-hand-or-with-cookie-press-952659\">No Starch Added Gluten Free Butter Cookies + Video (by Hand or with Cookie Press)</a>, <a href=\"https://spoonacular.com/recipes/flourless-sweet-potato-pancakes-paleo-and-free-of-gluten-dairy-grain-gum-and-refined-sugar-and-no-starch-added-984068\">Flourless Sweet Potato Pancakes – Paleo and Free of Gluten, Dairy, Grain, Gum, and Refined Sugar and No-Starch-Added</a>, and <a href=\"https://spoonacular.com/recipes/gluten-free-brown-rice-flour-brownies-512553\">Gluten Free Brown Rice Flour Brownies</a> are very similar to this recipe.",
     "cuisines": [
         "American"
@@ -153,18 +68,6 @@
     "dishTypes": [
         "side dish"
     ],
-    "diets": [
-        "gluten free",
-        "dairy free",
-        "lacto ovo vegetarian",
-        "fodmap friendly"
-    ],
-    "occasions": [],
-    "winePairing": {
-        "pairedWines": [],
-        "pairingText": "",
-        "productMatches": []
-    },
     "instructions": "Instructions\n\nSoak the raw fries in ice water for 2 or more hours and store in the refrigerator. (I just add to a bowl using water from my refrigerator and top with ice.)\n\nWhen you’re ready to fry the potatoes, preheat oil in a deep-fryer, Dutch oven or large pot to 375°F and line two baking sheets with paper towels; set aside.\n\nRinse the chilled fries thoroughly under cold running water and drain thoroughly. Transfer the potatoes to a tea towel. Using another tea towel, cover and pat dry all of the fries.\n\nTransfer the fries to a gallon-size zipper storage bag and add the egg yolks. Seal shut and smear the egg yolk all over the fries to evenly distribute.\n\nWorking in batches of three, fry the potatoes for 3 minutes. Drain using a spider or the basket of your deep-fryer. Transfer the hot fries to the lined baking sheet and cool for 30 minutes. Continue to par-fry the other two batches in the same manner.\n\nOnce all of the fries are fried one time and the first batch has cooled, fry them again at 375°F for an additional 5 minutes or until crispy and brown to your liking.\n\nWhile their frying a second time, line the baking sheets with clean paper towels.\n\nTransfer the fried French fries to the baking sheets and allow to drain. Lightly press the oil out of the tops with additional paper towels. Serve and enjoy!",
     "analyzedInstructions": [
         {
@@ -241,191 +144,6 @@
                     ]
                 },
                 {
-                    "number": 3,
-                    "step": "Rinse the chilled fries thoroughly under cold running water and drain thoroughly.",
-                    "ingredients": [
-                        {
-                            "id": 11408,
-                            "name": "french fries",
-                            "localizedName": "french fries",
-                            "image": "french-fries-isolated.jpg"
-                        },
-                        {
-                            "id": 14412,
-                            "name": "water",
-                            "localizedName": "water",
-                            "image": "water.png"
-                        }
-                    ],
-                    "equipment": []
-                },
-                {
-                    "number": 4,
-                    "step": "Transfer the potatoes to a tea towel. Using another tea towel, cover and pat dry all of the fries.",
-                    "ingredients": [
-                        {
-                            "id": 11352,
-                            "name": "potato",
-                            "localizedName": "potato",
-                            "image": "potatoes-yukon-gold.png"
-                        },
-                        {
-                            "id": 11408,
-                            "name": "french fries",
-                            "localizedName": "french fries",
-                            "image": "french-fries-isolated.jpg"
-                        },
-                        {
-                            "id": 14355,
-                            "name": "tea",
-                            "localizedName": "tea",
-                            "image": "tea-bags.jpg"
-                        }
-                    ],
-                    "equipment": [
-                        {
-                            "id": 221439,
-                            "name": "kitchen towels",
-                            "localizedName": "kitchen towels",
-                            "image": "dish-towel.jpg"
-                        }
-                    ]
-                },
-                {
-                    "number": 5,
-                    "step": "Transfer the fries to a gallon-size zipper storage bag and add the egg yolks. Seal shut and smear the egg yolk all over the fries to evenly distribute.",
-                    "ingredients": [
-                        {
-                            "id": 1125,
-                            "name": "egg yolk",
-                            "localizedName": "egg yolk",
-                            "image": "egg-yolk.jpg"
-                        },
-                        {
-                            "id": 11408,
-                            "name": "french fries",
-                            "localizedName": "french fries",
-                            "image": "french-fries-isolated.jpg"
-                        }
-                    ],
-                    "equipment": []
-                },
-                {
-                    "number": 6,
-                    "step": "Working in batches of three, fry the potatoes for 3 minutes.",
-                    "ingredients": [
-                        {
-                            "id": 11352,
-                            "name": "potato",
-                            "localizedName": "potato",
-                            "image": "potatoes-yukon-gold.png"
-                        }
-                    ],
-                    "equipment": [],
-                    "length": {
-                        "number": 3,
-                        "unit": "minutes"
-                    }
-                },
-                {
-                    "number": 7,
-                    "step": "Drain using a spider or the basket of your deep-fryer.",
-                    "ingredients": [],
-                    "equipment": []
-                },
-                {
-                    "number": 8,
-                    "step": "Transfer the hot fries to the lined baking sheet and cool for 30 minutes. Continue to par-fry the other two batches in the same manner.",
-                    "ingredients": [
-                        {
-                            "id": 11408,
-                            "name": "french fries",
-                            "localizedName": "french fries",
-                            "image": "french-fries-isolated.jpg"
-                        }
-                    ],
-                    "equipment": [
-                        {
-                            "id": 404727,
-                            "name": "baking sheet",
-                            "localizedName": "baking sheet",
-                            "image": "baking-sheet.jpg"
-                        }
-                    ],
-                    "length": {
-                        "number": 30,
-                        "unit": "minutes"
-                    }
-                },
-                {
-                    "number": 9,
-                    "step": "Once all of the fries are fried one time and the first batch has cooled, fry them again at 375°F for an additional 5 minutes or until crispy and brown to your liking.",
-                    "ingredients": [
-                        {
-                            "id": 11408,
-                            "name": "french fries",
-                            "localizedName": "french fries",
-                            "image": "french-fries-isolated.jpg"
-                        }
-                    ],
-                    "equipment": [],
-                    "length": {
-                        "number": 5,
-                        "unit": "minutes"
-                    }
-                },
-                {
-                    "number": 10,
-                    "step": "While their frying a second time, line the baking sheets with clean paper towels.",
-                    "ingredients": [],
-                    "equipment": [
-                        {
-                            "id": 404727,
-                            "name": "baking sheet",
-                            "localizedName": "baking sheet",
-                            "image": "baking-sheet.jpg"
-                        },
-                        {
-                            "id": 405895,
-                            "name": "paper towels",
-                            "localizedName": "paper towels",
-                            "image": "paper-towels.jpg"
-                        }
-                    ]
-                },
-                {
-                    "number": 11,
-                    "step": "Transfer the fried French fries to the baking sheets and allow to drain. Lightly press the oil out of the tops with additional paper towels.",
-                    "ingredients": [
-                        {
-                            "id": 11408,
-                            "name": "french fries",
-                            "localizedName": "french fries",
-                            "image": "french-fries-isolated.jpg"
-                        },
-                        {
-                            "id": 4582,
-                            "name": "cooking oil",
-                            "localizedName": "cooking oil",
-                            "image": "vegetable-oil.jpg"
-                        }
-                    ],
-                    "equipment": [
-                        {
-                            "id": 404727,
-                            "name": "baking sheet",
-                            "localizedName": "baking sheet",
-                            "image": "baking-sheet.jpg"
-                        },
-                        {
-                            "id": 405895,
-                            "name": "paper towels",
-                            "localizedName": "paper towels",
-                            "image": "paper-towels.jpg"
-                        }
-                    ]
-                },
-                {
                     "number": 12,
                     "step": "Serve and enjoy!",
                     "ingredients": [],
@@ -433,7 +151,6 @@
                 }
             ]
         }
-    ],
-    "originalId": null
+    ]
 }
 }
